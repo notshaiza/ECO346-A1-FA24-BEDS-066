@@ -1,0 +1,7 @@
+students (ed_total > 0): 1440
+weighted median: 4500
+unweighted median: 4295
+weighted p10: 1000
+weighted p90: 15500
+p90/p10 ratio: 15.50
+excluded (outside 2.0-6.0 log10): 1
